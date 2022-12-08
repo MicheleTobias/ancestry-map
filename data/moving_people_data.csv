@@ -1,5 +1,9 @@
-ID	Person	City	State	Country	Start_Date	lat	lon
-1	Ida	Kurikka		Finland	1888	62.616816	22.398791
-2	Ida	Bayfield	Wisconsin	United States	1913	46.811654	-90.817817
-3	Ida	Ironwood	Michigan	United States	1930	46.455051	-90.151911
-4	Constance	Bayfield	Wisconsin	United States	1913	46.811654	-90.817817
+ID,Person,City,State,Country,Start_Date,lat,lon
+1, Ida, Kurikka, , Finland,1888,62.616816,22.398791
+1, Ida, Bayfield, Wisconsin, United States,1913,46.811654,-90.817817
+1, Ida, Ironwood, Michigan, United States,1930,46.455051,-90.151911
+2, Constance, Bayfield, Wisconsin, United States,1913,46.811654,-90.817817
+2, Constance, Ironwood, Michigan, United States,1930,46.455051,-90.151911
+2, Constance,Sault Ste Marie, Michigan, United States,1935,46.486489,-84.36071
+2, Constance,Luddington,Michigan, United States,1954,43.962553,-86.445802
+2, Constance,Camarillo,California, United States,1996,34.226584,-119.035771
